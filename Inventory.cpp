@@ -1,3 +1,6 @@
+// Name: Wadan
+// Date: 3/23/26
+// Purpose: Refactoring Inventory to use a custom linked list
 #include "Inventory.h"
 #include <iostream>
 
