@@ -1,3 +1,6 @@
+// Name: Wadan Mehraban
+// Date: 3/23/26
+// THING TO DO: Refactoring Inventory to use a custom linked list
 #ifndef INVENTORY_H
 #define INVENTORY_H
 
